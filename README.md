@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer<br><br>Full Stack Developer<br><br>Software & AI Enthusiast<br><br>Problem-Solving Engineer<br><br>Tech-Driven Software Developer
+Aspiring Software Engineer<br><br>Full Stack Developer<br><br>Software & AI Enthusiast<br><br>Problem-Solving Engineer<br>
 
 
 ## 🌐 Socials:
